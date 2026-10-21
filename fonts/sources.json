@@ -14,5 +14,14 @@
     "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
     "license": "OFL-1.1",
     "file": "Manrope.ttf"
+  },
+  {
+    "name": "Google Sans Medium",
+    "source": "https://fonts.googleapis.com/css2?family=Google+Sans:wght@500&display=swap&text=Continuar%20con%20GoogleIngresarAbriendo%E2%80%A6",
+    "fontSource": "https://fonts.gstatic.com/l/font?kit=4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IKlitTrKUmF_HuquUaP3ESRp9PoHLhEx4HoU&skey=c30756b8cf584a60&v=v71",
+    "revision": "Google Fonts Google Sans v71; weight 500, provider text subset for Google buttons",
+    "sha256": "d1b5dd90da3e8c703df1f065509b442236d0e9a9522c38fbf2c609bd37ac5973",
+    "license": "OFL-1.1 (GoogleSans-OFL.txt)",
+    "file": "GoogleSans-Medium.ttf"
   }
 ]

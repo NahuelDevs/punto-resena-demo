@@ -1,10 +1,10 @@
 {
-  "id": "/punto-resena-demo/", "name": "Punto Reseña · Mi club", "short_name": "Mi club",
-  "lang": "es-UY", "start_url": "/punto-resena-demo/", "scope": "/punto-resena-demo/", "display": "standalone",
+  "id": "./", "name": "Punto Reseña · Mi club", "short_name": "Mi club",
+  "lang": "es-UY", "start_url": "./", "scope": "./", "display": "standalone",
   "background_color": "#F5F3EA", "theme_color": "#4B2039",
   "icons": [
-    { "src": "/punto-resena-demo/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/punto-resena-demo/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/punto-resena-demo/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }

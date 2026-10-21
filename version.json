@@ -1,6 +1,8 @@
 {
-  "version": "demo-cafe-v1",
-  "date": "2026-10-16",
-  "environment": "demo",
-  "recovery": "pending"
+  "version": "demo-comercial-local-2026-10-19",
+  "date": "2026-10-19",
+  "environment": "local",
+  "sourceBranch": "mejoras/demo-comercial-local-2026-10-19",
+  "reviewBaseCommit": "1c1b9a85852925d8bcb3823ce5c084c6dd632f0f",
+  "recovery": "disabled-pending-https-verification"
 }
